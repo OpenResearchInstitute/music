@@ -1,2 +1,2 @@
 # music
-Musical compositions created by team members. 
+Musical compositions and performances created by members of the community. 
